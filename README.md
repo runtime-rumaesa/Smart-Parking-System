@@ -28,13 +28,11 @@ The system uses advanced data structures such as **linked lists**, **circular qu
 
 /Smart-Parking-System
 │
-├── src/ # C++ source files
-├── include/ # Header files
-├── resources/ # Qt resources (icons, images)
-├── SmartParking.pro # Qt project file
-├──  # Work Breakdown Structure
-├──  # Test Cases
-└── README.md # This file
+├── docs/ # wbs, text cases, block & line diagram
+├── headers/ # Header files
+├── sources/ # C++ source files
+├── README.md # This file
+└── SmartParkingSystem.pro # Qt project file
 
 ---
 
@@ -50,7 +48,9 @@ The system uses advanced data structures such as **linked lists**, **circular qu
 ---
 
 ## Documentation
-
+Block & Line Diagram
+Test Cases 
+WBS
 
 ---
 
